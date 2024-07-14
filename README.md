@@ -1,5 +1,6 @@
-# spectre-youtube
+# How to setup Node / Bridge in Hive OS for Spectre Network ($SPR)
 Commands used in the video : [https://youtu.be/JxwO0n6OpAE](https://youtu.be/JxwO0n6OpAE)
+
 ## libc6 
 ```sh
 echo "deb http://archive.ubuntu.com/ubuntu jammy main" >> /etc/apt/sources.list && apt update && apt upgrade -y && apt install g++-11 -y && apt install libc6 -y
