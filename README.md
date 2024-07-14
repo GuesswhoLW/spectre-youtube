@@ -20,6 +20,11 @@ cd ../../ && mkdir spr_bridge && cd spr_bridge && wget https://github.com/spectr
 
 ### Ctrl+A+D (to detach the screen)
 
+### Miner installation URL
+```sh
+https://github.com/BinaryExpr/spectre-miner/releases/download/v0.6.18/spectre_miner_x64-v0.6.18_linux.tar.gz
+```
+
 Start the miner
 
 ``sh
