@@ -1,5 +1,5 @@
 # How to setup Node / Bridge in Hive OS for Spectre Network ($SPR)
-Commands used in the video : [https://youtu.be/JxwO0n6OpAE](https://youtu.be/JxwO0n6OpAE)
+Commands used in the video : [https://youtu.be/T9KFO9tInOU](https://youtu.be/T9KFO9tInOU)
 
 ## libc6 
 ```sh
